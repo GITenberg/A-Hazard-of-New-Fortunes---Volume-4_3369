@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:cc="http://web.resource.org/cc/"
+>
+  <pgterms:ebook rdf:about="ebooks/3369">
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3369.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90193</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf7d2dbe2db07451e9dee999aa0451227">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:09:48.981420</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3369.epub.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6b6d2a8cd5ec495993959479235ac41a">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90192</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:09:48.905420</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="Nf231be3feba547b39f243f9c0545cf26">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nf1c79a0b33764606ad00bcd7c2aa58d7">
+        <rdf:value>Married people -- Fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N5557823f7feb455a8e70decccff1d814">
+        <rdf:value>New York (N.Y.) -- Fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nd6a26a2620914d1bbdff8c1a822e9768">
+        <rdf:value>Domestic fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/97">
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/William_Dean_Howells"/>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1920</pgterms:deathdate>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1837</pgterms:birthdate>
+        <pgterms:alias>Howells, W. D. (William Dean)</pgterms:alias>
+        <pgterms:name>Howells, William Dean</pgterms:name>
+        <pgterms:alias>Howells, William D. (William Dean)</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3369.kindle.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">373044</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:09:49.802417</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N509e0d2ab613497db7cbe120d36a2292">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3369.rdf">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12615</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc2a912a10dd5451c9ff5005771a86558">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:02:28.884753</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3369.html.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225768</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:09:48.778445</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N096bf3f1cfc34201b8bcd998a4d21f75">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/3369/3369.txt">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209388</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-30T11:27:50</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndb2565a6b9a94624b3251662fcbcbb64">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-10-23</dcterms:issued>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Na3bf23513a4d40169c0c0b15da8ebf12">
+        <rdf:value>Middle-aged persons -- Fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3369.txt.utf-8">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:09:48.510437</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">209362</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5f47adaa51dc4dc38f6fb9042290f255">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</pgterms:downloads>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N79dd572b95214eec9052add918ebf040">
+        <rdf:value>City and town life -- Fiction</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N997264c2788d4d20bd0076f64fca859e">
+        <rdf:value>Text</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3369.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225768</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1aefbb23d4c1434a8591580d2f6ceade">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:09:48.723426</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/3369/3369.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79851</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd2c719f49da74f6d8ee2eda249093fca">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2014-06-30T11:31:00</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8aa0cc59d090496aabb9632e47fd6ebe">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N2e15b7c34d4b4de5aed32ed8b9eca5f0">
+        <rdf:value>PS</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/3369.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/3369"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">373029</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0847f229650b4a829b3ed0ad8ccba727">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-02T03:09:50.635391</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Na2224e95fadd46f18fed2e4162ab133d">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Moving, Household -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nf537a370ae874cd78f6ef7607c4d0f94">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Social classes -- Fiction</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:title>A Hazard of New Fortunes — Volume 4</dcterms:title>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/William_Dean_Howells">
+    <dcterms:description>Wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
